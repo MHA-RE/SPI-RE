@@ -1,0 +1,23 @@
+
+
+p {
+
+	font-family: "Cooper Black";
+	font-size: 28px;
+}
+
+section {
+	margin-top: 20px;
+}
+
+ul {
+
+	font-family: "Aharoni";
+	font-size:20px;
+	font-style: italic;
+}
+
+.navbar {
+	background: none;
+}
+
